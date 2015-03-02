@@ -17,8 +17,7 @@ Installation
 Pick one of these two commands:
 
 ```
-phonegap local plugin add https://github.com/benjie/phonegap-parse-plugin
-cordova plugin add https://github.com/benjie/phonegap-parse-plugin
+cordova plugin add https://github.com/JuanSoto/phonegap-parse-plugin.git
 ```
 
 Initial Setup
